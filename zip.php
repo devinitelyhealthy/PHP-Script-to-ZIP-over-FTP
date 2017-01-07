@@ -19,7 +19,7 @@
   * 2) give your zip a name (line 34)
   * 3) upload this script into your folder where you want to execute it via FTP or anything
   * 4) execute it on your server e.g. "localhost/home/zip.php"
- 
+  */
 // zu zippender ordner
 $folder = "/var/www/sw5212/";
  
